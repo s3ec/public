@@ -5,6 +5,5 @@ Downloads JS links per site as .txt
 Why it's created -- sometimes tesla.com --like these sites blocks crawling this can be useful for crawling all js files.
 then analyze all js files with mantra for api keys and endpoints
 
-
-Winner.zip -- contains a winner.exe which is modified winpeas not detected by any av
-
+Winner.zip contains winner.exe, which is a modified version of WinPEAS and is not detected by any EDR/AV solutions.
+impacket-add.zip contains a modified Impacket tool that is not detected by any EDR/AV solutions.

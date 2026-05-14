@@ -6,4 +6,5 @@ Why it's created -- sometimes tesla.com --like these sites blocks crawling this 
 then analyze all js files with mantra for api keys and endpoints
 
 Winner.zip contains winner.exe, which is a modified version of WinPEAS and is not detected by any EDR/AV solutions.
+
 impacket-add.zip contains a modified Impacket tool that is not detected by any EDR/AV solutions.
